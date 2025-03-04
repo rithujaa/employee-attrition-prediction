@@ -34,6 +34,6 @@ This project predicts employee attrition in a corporate environment using machin
 |----------------------|-----------|--------|----------|------|
 | Logistic Regression  | 0.88      | 0.89   | 0.88     | 0.81 |
 | Random Forest        | 0.82      | 0.84   | 0.82     | 0.76 |
-| XGBoost              | 0.86      | 0.87   | 0.86     | 0.76 |
+| XGBoost              | 0.86      | 0.87   | 0.86     | 0.79 |
 | CatBoost             | 0.84      | 0.83   | 0.83     | 0.82 |
 
